@@ -18,6 +18,34 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/076hWmn#</br>
 ![image](https://user-images.githubusercontent.com/58599984/137961704-eb1e6545-ea3a-4d48-884f-dd44f93474b3.png)
 ## Waveform
 ![image](https://user-images.githubusercontent.com/58599984/137961801-9c47c8fa-72d8-4300-9546-b557afd74cc1.png)
+# LED Counter
+Please refer the following link for the project:</br>
+</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0j2hyj6</br>
+</br>
+## Code and FPGA
+![image](https://user-images.githubusercontent.com/58599984/137967244-bfd83377-3a91-4ff7-a6c4-64f2b771ac14.png)
+![image](https://user-images.githubusercontent.com/58599984/137967283-e0bf8579-c3a1-4e4a-ac62-189671cd9b62.png)
+
+## Diagram
+![image](https://user-images.githubusercontent.com/58599984/137967330-d189c278-01b2-4ce9-b2ef-a375e707b89f.png)
+## Waveform
+![image](https://user-images.githubusercontent.com/58599984/137967401-4f85fda4-b40d-4897-92a7-1ca284b72e59.png)
+
+
+# Interfacing LEDs Lab
+Please refer the following link for the project:</br>
+</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0g5hYl5#</br>
+</br>
+## Code and FPGA
+![image](https://user-images.githubusercontent.com/58599984/137966509-acc701f8-b297-4212-988f-8851c7b0b771.png)
+![image](https://user-images.githubusercontent.com/58599984/137966598-35f5c9f3-020e-4302-8bde-dbde702d0e44.png)
+## Diagram
+![image](https://user-images.githubusercontent.com/58599984/137966664-7280984f-a38e-4dc4-8791-db35bf7aa873.png)
+## Waveform
+![image](https://user-images.githubusercontent.com/58599984/137966742-9671b85a-c7d9-4024-86b4-2e2258444a3f.png)
+
 
 
 
@@ -38,7 +66,7 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 ## Code
 ![image](https://user-images.githubusercontent.com/58599984/137949201-6a4551b6-78f8-49d7-84a6-8506cbe81166.png)
 ## Diagram
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/58599984/137962177-c589d883-1e4b-4a56-a5ee-74068c9b545e.png)
 
 ## FPGA
 ![image](https://user-images.githubusercontent.com/58599984/137949288-505bec87-9c50-4b70-bcd7-e8a0fc107700.png)
@@ -54,7 +82,7 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 
 
 # References
-1.
+1. https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21
 2. https://verilogcodes.blogspot.com/2015/10/verilog-code-for-bcd-to-7-segment.html
 3. https://www.geeksforgeeks.org/bcd-to-7-segment-decoder/
 
