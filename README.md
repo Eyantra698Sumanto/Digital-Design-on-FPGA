@@ -16,8 +16,20 @@ Please refer the following link for the project:</br>
 </br>
 https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 </br>
-Here is the some snapshots of the project:
-![image](https://user-images.githubusercontent.com/58599984/137946576-ce9ff7d3-0890-460d-b03f-a5434bc10b4e.png)
+## Code
+![image](https://user-images.githubusercontent.com/58599984/137949201-6a4551b6-78f8-49d7-84a6-8506cbe81166.png)
+## Diagram
+![Uploading image.png…]()
+
+## FPGA
+![image](https://user-images.githubusercontent.com/58599984/137949288-505bec87-9c50-4b70-bcd7-e8a0fc107700.png)
+![image](https://user-images.githubusercontent.com/58599984/137949322-035b3910-7a6f-4f45-be62-8fd362180d92.png)
+![image](https://user-images.githubusercontent.com/58599984/137949352-771bcb8f-7c31-416b-b2a9-f477d16a0961.png)
+
+## Waveform
+![image](https://user-images.githubusercontent.com/58599984/137949405-99ff7310-a962-4909-9784-943c6088c110.png)
+
+
 
 
 
