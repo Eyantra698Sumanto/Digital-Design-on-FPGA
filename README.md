@@ -36,7 +36,7 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0j2hyj6</br>
 # Interfacing LEDs Lab
 Please refer the following link for the project:</br>
 </br>
-https://www.makerchip.com/sandbox/0mZf5hwmG/0g5hYl5#</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0k5hqnm</br>
 </br>
 ## Code and FPGA
 ![image](https://user-images.githubusercontent.com/58599984/137966509-acc701f8-b297-4212-988f-8851c7b0b771.png)
@@ -53,7 +53,17 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0g5hYl5#</br>
 A seven-segment display (SSD) is a form of electronic display device for displaying decimal numbers. They can be used as an alternative to complex display's such as dot matrix.
 
 A SSD has 7 segments and theoretically we can use it to display 2^7 = 128 combinations of characters. But most of these combinations, doesn't make sense to a human eye. Decimal numbers can be displayed correctly on a 7 segment panel.
-
+Please refer the following link for the project:</br>
+</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0g5hYl5#</br>
+</br>
+## Code and FPGA
+![image](https://user-images.githubusercontent.com/58599984/137968422-3bb94f4e-591d-46c5-b5fd-2300ef95d96f.png)
+## Diagram
+![image](https://user-images.githubusercontent.com/58599984/137968495-ead9b5dc-61cf-45e6-8e85-f866415f8033.png)
+## Waveform
+![image](https://user-images.githubusercontent.com/58599984/137968524-ada40348-a6db-4bfe-ad1b-ea679bbe9cd8.png)
+# Interfacing Seven Segment Labs
 Truth table for the BCD to seven segment display:</br>
 ![image](https://user-images.githubusercontent.com/58599984/137947406-7e48558f-5e27-4226-a254-ef62742b71d5.png)</br>
 
