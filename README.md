@@ -16,7 +16,7 @@ Please refer the following link for the project:</br>
 </br>
 https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 </br>
-Here is the project:
+Here is the some snapshots of the project:
 ![image](https://user-images.githubusercontent.com/58599984/137946576-ce9ff7d3-0890-460d-b03f-a5434bc10b4e.png)
 
 
