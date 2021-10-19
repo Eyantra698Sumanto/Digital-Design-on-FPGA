@@ -93,8 +93,56 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 ![image](https://user-images.githubusercontent.com/58599984/137971725-9c2e4dd4-50d2-4a81-81b0-f5f483e982fc.png)
 ## Finite State Machine
 ![image](https://user-images.githubusercontent.com/58599984/137971333-15391e15-0c2c-4265-926b-e9065a2cc56f.png)
-</br>This project deals with the Traffic Controller Design using the Makerchip Virtual FPGA. As shown above we are focussing on the Yellow and Green light and these are depicted using the G and D of the 7 segment display respectively. Green light turns ON for 8 clock pulses while Yellow turns on for 4 clock pulses. All lights OFF are considered as Red Signal.
-## 
+</br>This project deals with the Traffic Controller Design using the Makerchip Virtual FPGA. As shown above we are focussing on the Yellow and Green light and these are depicted using the G and D of the 7 segment display respectively. Green light turns ON for 8 clock pulses while Yellow turns on for 4 clock pulses. All lights OFF are considered as Red Signal. The fours 7 segment display are considered as signal for the four ways.
+Please refer the following link for the project:</br>
+</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0nZh6G5#</br>
+</br>
+## Code
+### Code Snippet for NORTH, SOUTH, EAST and WEST
+```
+NORTH :
+                    begin                      
+                       // Enable first seven segment and set to Green 
+                       digit <= 4'b0111;
+                       segment <= 7'b1110111;
+                        /* TODO: 1. Keep the green NORTH signal active for 8 seconds 
+                                2. Set state of signal to yellow NORTH after that 
+                          HINT: Use if-else block
+                        */
+                       if(count==7) begin
+                             assign state=NORTH_Y;
+                        	  assign count=0;    
+                          end
+                       else assign count=count+1;   
+                    end
+  ```
+<\br>
+### Code Snippet for NORTH_Y, SOUTH_Y, EAST_Y and WEST_Y
+```
+NORTH_Y :
+                    begin
+                        // Enable first seven segment and set to Yellow
+                        digit <= 4'b0111;
+                        segment <= 7'b1111110;
+                        /* TODO: 1. Keep the yellow NORTH signal active for 4 seconds 
+                                2. Set state of signal to green SOUTH after that 
+                        */
+                      if(count==3) begin
+                             assign state=SOUTH;
+                        	  assign count=0;    
+                          end
+                       else assign count=count+1;
+							end
+  ```
+ <\br>
+## Diagram
+![image](https://user-images.githubusercontent.com/58599984/137979828-bba3103a-f86a-4233-8750-a8594f4f3b14.png)
+## FPGA Simulation
+![image](https://user-images.githubusercontent.com/58599984/137979905-bef89122-edb6-4adc-b295-eb8ba0fdf71c.png)
+![image](https://user-images.githubusercontent.com/58599984/137979882-df271acc-398a-420b-be97-184d4c6238e3.png)
+![image](https://user-images.githubusercontent.com/58599984/137979999-61a7b35f-8fc8-4830-883d-1d1d8ea4ca35.png)
+
 
 
 
