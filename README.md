@@ -8,8 +8,10 @@ A seven-segment display (SSD) is a form of electronic display device for display
 A SSD has 7 segments and theoretically we can use it to display 2^7 = 128 combinations of characters. But most of these combinations, doesn't make sense to a human eye. Decimal numbers can be displayed correctly on a 7 segment panel.
 
 Truth table for the BCD to seven segment display:</br>
-![image](https://user-images.githubusercontent.com/58599984/137947406-7e48558f-5e27-4226-a254-ef62742b71d5.png)
-The Seven Segment Display interfacing is done in this workshop using 
+![image](https://user-images.githubusercontent.com/58599984/137947406-7e48558f-5e27-4226-a254-ef62742b71d5.png)</br>
+
+The Seven Segment Display interfacing is done in this workshop using the Virtual FPGA in Makerchip. A System Verilog code is written in order to describe the functionallity of the seven segment display. A reg is used to store a BCD value and is incremented for every count of the counter and then converted to Seven Segment equivalent using the above truth table.
+
 Please refer the project from the following link:</br>
 https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 Here is the project:
