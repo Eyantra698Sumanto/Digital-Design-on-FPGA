@@ -2,6 +2,23 @@
 ![image](https://user-images.githubusercontent.com/58599984/137940739-15b4f9e6-d14d-4921-996c-1d48569e3c19.png)
 
 This repo contain all my documentation of the  "VSD Open Digital-Design-on-FPGA"
+# Interfacing LEDs
+This topic dealing with interfacing of the LEDs on the Virtual FPGA by writing a System Verilog code in Makerchip.</br>
+Please refer the following link for the project:</br>
+</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
+</br>
+## Code and FPGA
+![image](https://user-images.githubusercontent.com/58599984/137961551-075694c6-ee54-4226-98aa-9012377f2863.png)
+![image](https://user-images.githubusercontent.com/58599984/137961593-ffa8c7ec-c871-4b2c-bc51-c74cad25c3e0.png)
+![image](https://user-images.githubusercontent.com/58599984/137961641-7d7fca0d-237f-4f10-a5fb-89b4ad4e0ec8.png)
+## Diagram
+![image](https://user-images.githubusercontent.com/58599984/137961704-eb1e6545-ea3a-4d48-884f-dd44f93474b3.png)
+## Waveform
+![image](https://user-images.githubusercontent.com/58599984/137961801-9c47c8fa-72d8-4300-9546-b557afd74cc1.png)
+
+
+
 # Interfacing Seven segment
 A seven-segment display (SSD) is a form of electronic display device for displaying decimal numbers. They can be used as an alternative to complex display's such as dot matrix.
 
