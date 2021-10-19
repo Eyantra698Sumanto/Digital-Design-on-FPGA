@@ -9,9 +9,7 @@ A SSD has 7 segments and theoretically we can use it to display 2^7 = 128 combin
 
 Truth table for the BCD to seven segment display:</br>
 ![image](https://user-images.githubusercontent.com/58599984/137947406-7e48558f-5e27-4226-a254-ef62742b71d5.png)
-
-
-
+The Seven Segment Display interfacing is done in this workshop using 
 Please refer the project from the following link:</br>
 https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 Here is the project:
