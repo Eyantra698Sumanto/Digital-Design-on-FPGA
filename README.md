@@ -36,15 +36,17 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0j2hyj6</br>
 # Interfacing LEDs Lab
 Please refer the following link for the project:</br>
 </br>
-https://www.makerchip.com/sandbox/0mZf5hwmG/0k5hqnm</br>
+https://www.makerchip.com/sandbox/0mZf5hwmG/0lOhzop</br>
 </br>
 ## Code and FPGA
-![image](https://user-images.githubusercontent.com/58599984/137966509-acc701f8-b297-4212-988f-8851c7b0b771.png)
-![image](https://user-images.githubusercontent.com/58599984/137966598-35f5c9f3-020e-4302-8bde-dbde702d0e44.png)
+![image](https://user-images.githubusercontent.com/58599984/137970922-9f899943-589b-4963-a6bb-9d87aa1c0b4d.png)
+![image](https://user-images.githubusercontent.com/58599984/137970895-d068a2c3-0774-460e-903e-462b549ae48a.png)
+![image](https://user-images.githubusercontent.com/58599984/137970992-177eb6d4-f89e-4a98-a150-e65f8e971680.png)
+
 ## Diagram
-![image](https://user-images.githubusercontent.com/58599984/137966664-7280984f-a38e-4dc4-8791-db35bf7aa873.png)
+![image](https://user-images.githubusercontent.com/58599984/137971104-88804653-8afe-48de-bc99-1ffc7b691412.png)
 ## Waveform
-![image](https://user-images.githubusercontent.com/58599984/137966742-9671b85a-c7d9-4024-86b4-2e2258444a3f.png)
+![image](https://user-images.githubusercontent.com/58599984/137971149-779c0de7-d560-444d-ad31-af7760eef315.png)
 
 
 
@@ -85,6 +87,14 @@ https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
 
 ## Waveform
 ![image](https://user-images.githubusercontent.com/58599984/137949405-99ff7310-a962-4909-9784-943c6088c110.png)
+
+# Traffic Light lab
+## Problem Statement
+![image](https://user-images.githubusercontent.com/58599984/137971725-9c2e4dd4-50d2-4a81-81b0-f5f483e982fc.png)
+## Finite State Machine
+![image](https://user-images.githubusercontent.com/58599984/137971333-15391e15-0c2c-4265-926b-e9065a2cc56f.png)
+</br>This project deals with the Traffic Controller Design using the Makerchip Virtual FPGA. As shown above we are focussing on the Yellow and Green light and these are depicted using the G and D of the 7 segment display respectively. Green light turns ON for 8 clock pulses while Yellow turns on for 4 clock pulses. All lights OFF are considered as Red Signal.
+## 
 
 
 
