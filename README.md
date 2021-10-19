@@ -13,7 +13,9 @@ Truth table for the BCD to seven segment display:</br>
 The Seven Segment Display interfacing is done in this workshop using the Virtual FPGA in Makerchip. A System Verilog code is written in order to describe the functionallity of the seven segment display. A reg is used to store a BCD value and is incremented for every count of the counter and then converted to Seven Segment equivalent using the above truth table.
 
 Please refer the project from the following link:</br>
+</br>
 https://www.makerchip.com/sandbox/0mZf5hwmG/0Wnhyjg#</br>
+</br>
 Here is the project:
 ![image](https://user-images.githubusercontent.com/58599984/137946576-ce9ff7d3-0890-460d-b03f-a5434bc10b4e.png)
 
