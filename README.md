@@ -4,6 +4,13 @@
 This repo contains documentation of the  "VSD Open Digital-Design-on-FPGA" tutorial.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+# Introduction
+## Makerchip
+Makerchip is an Open Source App for circuit design, verilog programming, VLSI design, etc. Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. For more detail refer:
+https://www.makerchip.com/
+## Virtual FPGA
+It is an FPGA board that can be simulated using Makerchip IDE. It is very useful to see the simulation of the real FPGA on a desktop. For more details refer:
+https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21
 # Interfacing LEDs
 This topic dealing with interfacing of the LEDs on the Virtual FPGA by writing a System Verilog code in Makerchip.</br>
 Please refer the following link for the project:</br>
@@ -149,10 +156,10 @@ NORTH_Y :
 I would like to thank Mr.Kunal Ghosh, Mrs. Anagha Ghosh, Mr. Steve Hoover and Mr. Bala Dinesh for the tutorial explained in the simplest way possible. It helped me to learn more about the FPGA and Makerchip in a very easy and structured manner. It will be very helpful for students to work on Virtual FPGA as many cannot afford the real one. It is also useful for the simulation purpose.
 
 
-
-
 # References
 1. https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21
-2. https://verilogcodes.blogspot.com/2015/10/verilog-code-for-bcd-to-7-segment.html
-3. https://www.geeksforgeeks.org/bcd-to-7-segment-decoder/
+2. https://www.makerchip.com/
+3. https://verilogcodes.blogspot.com/2015/10/verilog-code-for-bcd-to-7-segment.html
+4. https://www.geeksforgeeks.org/bcd-to-7-segment-decoder/
+5. http://www.sunburst-design.com/papers/CummingsSNUG2019SV_FSM1.pdf
 
