@@ -6,7 +6,7 @@ This repo contains documentation of the  "VSD Open Digital-Design-on-FPGA" tutor
 -----------------------------------------------------------------------------------------------------------------------------------------------
 # Introduction
 ## Makerchip
-Makerchip is an Open Source App for circuit design, verilog programming, VLSI design, etc. Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. For more detail refer:
+Makerchip is an Open Source App for circuit design, verilog programming, VLSI design, etc. Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. For more detail refer:<\br>
 https://www.makerchip.com/
 ## Virtual FPGA
 It is an FPGA board that can be simulated using Makerchip IDE. It is very useful to see the simulation of the real FPGA on a desktop. For more details refer:
