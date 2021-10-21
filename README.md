@@ -4,6 +4,43 @@
 This repo contains documentation of the  "VSD Open Digital-Design-on-FPGA" tutorial.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+# Contents
+- [Introduction](#introduction)
+  * [Makerchip](#makerchip)
+  * [Virtual FPGA](#virtual-fpga)
+- [Interfacing LEDs](#interfacing-leds)
+  * [Code and FPGA](#code-and-fpga)
+  * [Diagram](#diagram)
+  * [Waveform](#waveform)
+- [LED Counter](#led-counter)
+  * [Code and FPGA](#code-and-fpga-1)
+  * [Diagram](#diagram-1)
+  * [Waveform](#waveform-1)
+- [Interfacing LEDs Lab](#interfacing-leds-lab)
+  * [Code and FPGA](#code-and-fpga-2)
+  * [Diagram](#diagram-2)
+  * [Waveform](#waveform-2)
+- [Interfacing Seven segment](#interfacing-seven-segment)
+  * [Code and FPGA](#code-and-fpga-3)
+  * [Diagram](#diagram-3)
+  * [Waveform](#waveform-3)
+- [Interfacing Seven Segment Labs](#interfacing-seven-segment-labs)
+  * [Code](#code)
+  * [Diagram](#diagram-4)
+  * [FPGA](#fpga)
+  * [Waveform](#waveform-4)
+- [Traffic Light lab](#traffic-light-lab)
+  * [Problem Statement](#problem-statement)
+  * [Finite State Machine](#finite-state-machine)
+  * [Code](#code-1)
+    + [Code Snippet for NORTH, SOUTH, EAST and WEST](#code-snippet-for-north--south--east-and-west)
+    + [Code Snippet for NORTH_Y, SOUTH_Y, EAST_Y and WEST_Y](#code-snippet-for-north-y--south-y--east-y-and-west-y)
+  * [Diagram](#diagram-5)
+  * [FPGA Simulation](#fpga-simulation)
+- [Acknowledgement](#acknowledgement)
+- [References](#references)
+
+
 # Introduction
 ## Makerchip
 Makerchip is an Open Source App for circuit design, verilog programming, VLSI design, etc. Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. For more detail refer:</br>
@@ -151,8 +188,8 @@ NORTH_Y :
 ![image](https://user-images.githubusercontent.com/58599984/137979999-61a7b35f-8fc8-4830-883d-1d1d8ea4ca35.png)
 
 
-# Acknowldgement
-I would like to thank Mr.Kunal Ghosh, Mrs. Anagha Ghosh, Mr. Steve Hoover and Mr. Bala Dinesh for the tutorial explained in the simplest way possible. It helped me to learn more about the FPGA and Makerchip in a very easy and structured manner. It will be very helpful for students to work on Virtual FPGA as many cannot afford the real one. It is also useful for the simulation purpose.
+# Acknowledgement
+I would like to thank Mr. Kunal Ghosh, Mrs. Anagha Ghosh, Mr. Steve Hoover and Mr. Bala Dinesh for the tutorial explained in the simplest way possible. It helped me to learn more about the FPGA and Makerchip in a very easy and structured manner. It will be very helpful for students to work on Virtual FPGA as many cannot afford the real one. It is also useful for the simulation purpose.
 
 
 # References
